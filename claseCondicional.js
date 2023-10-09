@@ -15,3 +15,14 @@ if ( examenAlumno >=6)
     alert('estas desaprobado')
 }
 
+let cantidadhijos = 5
+let edad = 2023 - 1994
+let cantidaddcasas = 0
+let trabajoformal = true 
+if( edad >= 18) && ( trabajoformal == true )
+
+{
+    alert( 'podes entrar al sorteo')
+}else{
+alert(' no podes entrar al sorteo')
+}
