@@ -19,8 +19,7 @@ let cantidadhijos = 5
 let edad = 2023 - 1994
 let cantidaddcasas = 0
 let trabajoformal = true 
-if( edad >= 18) && ( trabajoformal == true )
-
+if( edad >= 18) && ( trabajoformal == true ) && ( cantidadcasas > 0)
 {
     alert( 'podes entrar al sorteo')
 }else{
